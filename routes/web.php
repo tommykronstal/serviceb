@@ -17,5 +17,5 @@ Route::get('/', function () {
 });
 
 Route::get('/hello', function () {
-    return 'happ from happ';
+    return 'please use /api/hello';
 });
